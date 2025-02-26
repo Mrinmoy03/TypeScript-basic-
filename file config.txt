@@ -1,0 +1,13 @@
+ open terminal
+ tsc -init    <- enter
+ tsc (path of file) <-
+go to json file , go to target , and change to current verion of js
+then type tsc again
+
+to compile ony a specific file go to json file , under the compile file use "files": [] and put all file names seperated by ',' 
+
+
+for more confic  details got to https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+
+
+out dir  https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#outDir
